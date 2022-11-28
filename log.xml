@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-28T21:24:53</date>
+  <millis>1669659893399</millis>
+  <sequence>0</sequence>
+  <logger>task2_2</logger>
+  <level>INFO</level>
+  <class>task2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>0[[5, 1, 6, 0, 7, 4, 8]]</message>
+</record>
+<record>
+  <date>2022-11-28T21:24:53</date>
+  <millis>1669659893422</millis>
+  <sequence>1</sequence>
+  <logger>task2_2</logger>
+  <level>INFO</level>
+  <class>task2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>1[[1, 5, 0, 6, 4, 7, 8]]</message>
+</record>
+<record>
+  <date>2022-11-28T21:24:53</date>
+  <millis>1669659893423</millis>
+  <sequence>2</sequence>
+  <logger>task2_2</logger>
+  <level>INFO</level>
+  <class>task2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>2[[1, 0, 5, 4, 6, 7, 8]]</message>
+</record>
+<record>
+  <date>2022-11-28T21:24:53</date>
+  <millis>1669659893434</millis>
+  <sequence>3</sequence>
+  <logger>task2_2</logger>
+  <level>INFO</level>
+  <class>task2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>3[[0, 1, 4, 5, 6, 7, 8]]</message>
+</record>
+<record>
+  <date>2022-11-28T21:24:53</date>
+  <millis>1669659893435</millis>
+  <sequence>4</sequence>
+  <logger>task2_2</logger>
+  <level>INFO</level>
+  <class>task2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>4[[0, 1, 4, 5, 6, 7, 8]]</message>
+</record>
+<record>
+  <date>2022-11-28T21:24:53</date>
+  <millis>1669659893436</millis>
+  <sequence>5</sequence>
+  <logger>task2_2</logger>
+  <level>INFO</level>
+  <class>task2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>5[[0, 1, 4, 5, 6, 7, 8]]</message>
+</record>
+<record>
+  <date>2022-11-28T21:24:53</date>
+  <millis>1669659893436</millis>
+  <sequence>6</sequence>
+  <logger>task2_2</logger>
+  <level>INFO</level>
+  <class>task2_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>6[[0, 1, 4, 5, 6, 7, 8]]</message>
+</record>
+</log>
