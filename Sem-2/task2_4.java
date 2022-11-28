@@ -45,7 +45,7 @@ public static void main(String[] args) {
             default:
                 break;
         }
-        System.out.println("Считаем ещё? y/n?");
+        System.out.println("Считаем ещё ? y/n?");
         String answer = iScanner.next();
 
         
